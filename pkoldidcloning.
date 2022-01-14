@@ -1,0 +1,6 @@
+- apt update
+- apt upgrade 
+- pkg install
+- pkg install python
+- pkg install python2
+- git clone
